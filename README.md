@@ -1,3 +1,17 @@
+# News with Alan AI
+### [Live Site](https://googlenewza.herokuapp.com/)
+
+![netflix](https://i.ibb.co/0KMGSC0/Capture22.png)
+![netflix](https://i.ibb.co/bJPydwW/Capture23.png)
+
+## Introduction
+This is a code repository for the corresponding news with alan ai . 
+
+In this repository, we're going to build a fully functional news with alan ai application using reactjs. 
+
+While building it you're going to learn many advanced React , JavaScript topics, Hooks concept ,google news  API fetching with axios, Alan Ai  and many more.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
